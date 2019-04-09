@@ -19,9 +19,11 @@ Windows Form
 <a href="http://zupimages.net/viewer.php?id=19/15/723o.png"><img src="https://zupimages.net/up/19/15/723o.png" alt="" /></a>
 <a href="http://zupimages.net/viewer.php?id=19/15/nf78.png"><img src="https://zupimages.net/up/19/15/nf78.png" alt="" /></a>
 <h2>Développement</h2>
+
+
 Nous retrouvons donc une interfaces Windows Forms :
 
-<a href="https://image.noelshack.com/fichiers/2019/15/3/1554852483-capture.png" alt="" /></a>
+p://image.noelshack.com/fichiers/2019/15/3/1554852483-capture.png
 
 <ul>
   <li>Choix du csv à utiliser</li>
