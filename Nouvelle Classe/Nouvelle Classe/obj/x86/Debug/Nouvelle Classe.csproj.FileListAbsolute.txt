@@ -1,0 +1,26 @@
+C:\PPE E4\Nouvelle Classe\Nouvelle Classe\obj\x86\Debug\Nouvelle_Classe.Properties.Resources.resources
+C:\PPE E4\Nouvelle Classe\Nouvelle Classe\obj\x86\Debug\Nouvelle Classe.csproj.GenerateResource.Cache
+C:\PPE E4\Nouvelle Classe\Nouvelle Classe\obj\x86\Debug\Nouvelle_Classe.FormNouvelleClasse.resources
+C:\PPE E4\Nouvelle Classe\Nouvelle Classe\bin\Debug\Nouvelle Classe.exe
+C:\PPE E4\Nouvelle Classe\Nouvelle Classe\bin\Debug\Nouvelle Classe.pdb
+C:\PPE E4\Nouvelle Classe\Nouvelle Classe\obj\x86\Debug\Nouvelle Classe.exe
+C:\PPE E4\Nouvelle Classe\Nouvelle Classe\obj\x86\Debug\Nouvelle Classe.pdb
+C:\PPE E4\Nouvelle Classe\Nouvelle Classe\obj\x86\Debug\Nouvelle Classe.csprojResolveAssemblyReference.cache
+C:\PPE E4\Nouvelle Classe\Nouvelle Classe\bin\Debug\Nouvelle Classe.exe.config
+C:\PPE E4\Nouvelle Classe\Nouvelle Classe\bin\Debug\Connection.dll
+C:\PPE E4\Nouvelle Classe\Nouvelle Classe\bin\Debug\métier.dll
+C:\PPE E4\Nouvelle Classe\Nouvelle Classe\bin\Debug\Connection.pdb
+C:\PPE E4\Nouvelle Classe\Nouvelle Classe\bin\Debug\métier.pdb
+C:\PPE E4 travail\Nouvelle Classe\Nouvelle Classe\bin\Debug\Nouvelle Classe.exe.config
+C:\PPE E4 travail\Nouvelle Classe\Nouvelle Classe\obj\x86\Debug\Nouvelle Classe.exe
+C:\PPE E4 travail\Nouvelle Classe\Nouvelle Classe\obj\x86\Debug\Nouvelle Classe.pdb
+C:\PPE E4 travail\Nouvelle Classe\Nouvelle Classe\bin\Debug\Nouvelle Classe.exe
+C:\PPE E4 travail\Nouvelle Classe\Nouvelle Classe\bin\Debug\Nouvelle Classe.pdb
+C:\PPE E4 travail\Nouvelle Classe\Nouvelle Classe\bin\Debug\Connection.dll
+C:\PPE E4 travail\Nouvelle Classe\Nouvelle Classe\bin\Debug\métier.dll
+C:\PPE E4 travail\Nouvelle Classe\Nouvelle Classe\bin\Debug\Connection.pdb
+C:\PPE E4 travail\Nouvelle Classe\Nouvelle Classe\bin\Debug\métier.pdb
+C:\PPE E4 travail\Nouvelle Classe\Nouvelle Classe\obj\x86\Debug\Nouvelle Classe.csprojResolveAssemblyReference.cache
+C:\PPE E4 travail\Nouvelle Classe\Nouvelle Classe\obj\x86\Debug\Nouvelle_Classe.FormNouvelleClasse.resources
+C:\PPE E4 travail\Nouvelle Classe\Nouvelle Classe\obj\x86\Debug\Nouvelle_Classe.Properties.Resources.resources
+C:\PPE E4 travail\Nouvelle Classe\Nouvelle Classe\obj\x86\Debug\Nouvelle Classe.csproj.GenerateResource.Cache

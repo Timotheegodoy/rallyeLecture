@@ -1,0 +1,16 @@
+C:\PPE\métier\métier\bin\Debug\métier.pdb
+C:\PPE\métier\métier\obj\x86\Debug\métier.pdb
+C:\PPE\métier\métier\bin\Debug\métier.dll
+C:\PPE\métier\métier\obj\x86\Debug\métier.dll
+C:\PPE\métier\métier\obj\x86\Debug\métier.csprojAssemblyReference.cache
+C:\PPE\métier\métier\obj\x86\Debug\métier.csproj.CoreCompileInputs.cache
+C:\Cours\PPE\métier\métier\bin\Debug\métier.dll
+C:\Cours\PPE\métier\métier\bin\Debug\métier.pdb
+C:\Cours\PPE\métier\métier\obj\x86\Debug\métier.csprojAssemblyReference.cache
+C:\Cours\PPE\métier\métier\obj\x86\Debug\métier.csproj.CoreCompileInputs.cache
+C:\Cours\PPE\métier\métier\obj\x86\Debug\métier.dll
+C:\Cours\PPE\métier\métier\obj\x86\Debug\métier.pdb
+C:\PPE E4\métier\métier\obj\x86\Debug\métier.pdb
+C:\PPE E4\métier\métier\bin\Debug\métier.pdb
+C:\PPE E4\métier\métier\bin\Debug\métier.dll
+C:\PPE E4\métier\métier\obj\x86\Debug\métier.dll
