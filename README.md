@@ -23,7 +23,7 @@ Windows Form
 
 Nous retrouvons donc une interfaces Windows Forms :
 
-p://image.noelshack.com/fichiers/2019/15/3/1554852483-capture.png
+![capture.png](https://image.noelshack.com/fichiers/2019/15/3/1554852483-capture.png)<br>
 
 <ul>
   <li>Choix du csv à utiliser</li>
