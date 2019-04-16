@@ -8,7 +8,6 @@ Ecriture d'un fichier csv avec les informations de connection de chaques eleves.
 Alimentation d'une base de données.
 Les outils mis en oeuvre :
 
-Git
 Visual Studio
 C#
 Windows Form
