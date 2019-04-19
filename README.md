@@ -9,9 +9,13 @@ Alimentation d'une base de données.
 Les outils mis en oeuvre :
 
 *Visual Studio
+
 *C#
+
 *Windows Form
+
 *bibliotèque de classe
+
 *programmation objet
 
 <h2>Cas d'utilisation</h2>
