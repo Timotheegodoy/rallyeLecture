@@ -19,8 +19,11 @@ Les outils mis en oeuvre :
 ![cas.png](https://image.noelshack.com/fichiers/2019/16/5/1555661769-capture.png)<br>
 
 <h2>Diagrammes de classe</h2>
-<a href="http://zupimages.net/viewer.php?id=19/15/723o.png"><img src="https://zupimages.net/up/19/15/723o.png" alt="" /></a>
-<a href="http://zupimages.net/viewer.php?id=19/15/nf78.png"><img src="https://zupimages.net/up/19/15/nf78.png" alt="" /></a>
+
+![diagramme1.png](https://image.noelshack.com/fichiers/2019/16/5/1555661772-capture2.png)<br>
+
+![diagramme2.png](https://image.noelshack.com/fichiers/2019/16/5/1555661774-capture3.png)<br>
+
 <h2>Développement</h2>
 
 
