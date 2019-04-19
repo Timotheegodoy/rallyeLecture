@@ -41,11 +41,11 @@ Nous retrouvons donc une interfaces Windows Forms :
 
 
 
-* Exemple csv créer par le professeur
+1. Exemple csv créer par le professeur
 
 ![avant.png](https://image.noelshack.com/fichiers/2019/16/5/1555667248-capture4.png)<br>
 
-* Exemple csv générer par le programme
+2. Exemple csv générer par le programme
 
 ![apres.png](https://image.noelshack.com/fichiers/2019/16/5/1555667252-capture5.png)<br>
 
