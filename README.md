@@ -9,13 +9,13 @@ Alimentation d'une base de données.
 Les outils mis en oeuvre :
 
 Visual Studio
-C#
-Windows Form
-bibliotèque de classe
-programmation objet
+*C#
+*Windows Form
+*bibliotèque de classe
+*programmation objet
 
 <h2>Cas d'utilisation</h2>
-<a href="http://zupimages.net/viewer.php?id=19/15/d7m5.png"><img src="https://zupimages.net/up/19/15/d7m5.png" alt="" /></a>
+![cas.png](https://image.noelshack.com/fichiers/2019/16/5/1555661769-capture.png)<br>
 
 <h2>Diagrammes de classe</h2>
 <a href="http://zupimages.net/viewer.php?id=19/15/723o.png"><img src="https://zupimages.net/up/19/15/723o.png" alt="" /></a>
