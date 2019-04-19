@@ -8,13 +8,14 @@ Ecriture d'un fichier csv avec les informations de connection de chaques eleves.
 Alimentation d'une base de données.
 Les outils mis en oeuvre :
 
-Visual Studio
+*Visual Studio
 *C#
 *Windows Form
 *bibliotèque de classe
 *programmation objet
 
 <h2>Cas d'utilisation</h2>
+
 ![cas.png](https://image.noelshack.com/fichiers/2019/16/5/1555661769-capture.png)<br>
 
 <h2>Diagrammes de classe</h2>
