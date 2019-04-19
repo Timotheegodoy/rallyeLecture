@@ -1,9 +1,9 @@
 <h1>Rallye Lecture</h1>
-Le principe était de réaliser une application Windows Form en C# permettant à un professeur d'alimenter une base de données avec un fichier csv. Le fichier csv contient donc une liste d'élève (prénom et nom). Par la suite après avoir lancé le programme, des identifiants de connexion à notre site sont donc créées et sont enregistré dans un fichier csv afin de les distribués aux élèves.
+Le but de cette activité est de creer un site internet sur lequel des élèves peuvent se connecter pour répondre à des quizz sur le/les livre(s) qu'ils ont lu. Cette partie de l'activité consiste à réaliser une application Windows Form en C# permettant à un professeur d'alimenter une base de données avec un fichier csv. Le fichier csv contient donc une liste d'élève (prénom et nom). Par la suite après avoir lancé le programme, des identifiants de connexion à notre site sont donc créées et sont enregistré dans un fichier csv afin de les distribués aux élèves.
 
 Le projet est divisé en 3 grandes parties :
 
-Lecture des informations d'un fichier csv.
+Lecture/ecriture des informations d'un fichier csv.
 Ecriture d'un fichier csv avec les informations de connection de chaques eleves.
 Alimentation d'une base de données.
 Les outils mis en oeuvre :
@@ -11,6 +11,9 @@ Les outils mis en oeuvre :
 Visual Studio
 C#
 Windows Form
+bibliotèque de classe
+programmation objet
+
 <h2>Cas d'utilisation</h2>
 <a href="http://zupimages.net/viewer.php?id=19/15/d7m5.png"><img src="https://zupimages.net/up/19/15/d7m5.png" alt="" /></a>
 
